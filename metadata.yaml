@@ -1,4 +1,8 @@
 _repo: Across-Texas_48970
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48970-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48970#Across-Texas
 gutenberg_issued: '2015-05-16'
 gutenberg_type: Text
 identifiers:
